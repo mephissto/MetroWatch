@@ -9,49 +9,8 @@
     "resources": {
         "media": [
             {
-                "file": "images/menu_icon.png",
-                "menuIcon": true,
-                "name": "MENU_ICON",
-                "type": "png"
-            },
-            {
-                "file": "images/n0.png",
-                "name": "IMAGE_N0",
-                "type": "png"
-            },
-            {
-                "file": "images/n1.png",
-                "name": "IMAGE_N1",
-                "type": "png"
-            },
-            {
-                "file": "images/n2.png",
-                "name": "IMAGE_N2",
-                "type": "png"
-            },
-            {
-                "file": "images/n3.png",
-                "name": "IMAGE_N3",
-                "type": "png"
-            },
-            {
-                "file": "images/n4.png",
-                "name": "IMAGE_N4",
-                "type": "png"
-            },
-            {
-                "file": "images/n5.png",
-                "name": "IMAGE_N5",
-                "type": "png"
-            },
-            {
-                "file": "images/n6.png",
-                "name": "IMAGE_N6",
-                "type": "png"
-            },
-            {
-                "file": "images/n7.png",
-                "name": "IMAGE_N7",
+                "file": "images/n9.png",
+                "name": "IMAGE_N9",
                 "type": "png"
             },
             {
@@ -60,8 +19,49 @@
                 "type": "png"
             },
             {
-                "file": "images/n9.png",
-                "name": "IMAGE_N9",
+                "file": "images/n7.png",
+                "name": "IMAGE_N7",
+                "type": "png"
+            },
+            {
+                "file": "images/n6.png",
+                "name": "IMAGE_N6",
+                "type": "png"
+            },
+            {
+                "file": "images/n5.png",
+                "name": "IMAGE_N5",
+                "type": "png"
+            },
+            {
+                "file": "images/n4.png",
+                "name": "IMAGE_N4",
+                "type": "png"
+            },
+            {
+                "file": "images/n3.png",
+                "name": "IMAGE_N3",
+                "type": "png"
+            },
+            {
+                "file": "images/n2.png",
+                "name": "IMAGE_N2",
+                "type": "png"
+            },
+            {
+                "file": "images/n1.png",
+                "name": "IMAGE_N1",
+                "type": "png"
+            },
+            {
+                "file": "images/n0.png",
+                "name": "IMAGE_N0",
+                "type": "png"
+            },
+            {
+                "file": "images/menu_icon.png",
+                "menuIcon": true,
+                "name": "MENU_ICON",
                 "type": "png"
             }
         ]
