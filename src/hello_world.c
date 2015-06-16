@@ -155,7 +155,11 @@ void handle_init(void) {
 	// Create a window 
 	window = window_create();
 	//Background Color
+#ifdef PBL_COLOR
+  window_set_background_color(window, GColorCobaltBlue);
+#else
 	window_set_background_color(window, GColorBlack);
+#endif
 	// Push the window into the top of the stack
 	window_stack_push(window, true);
 	//Get a time structure so that the face doesn't start blank
