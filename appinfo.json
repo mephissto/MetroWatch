@@ -4,7 +4,7 @@
         ""
     ],
     "companyName": "mephissto",
-    "longName": "Metro Watch Color",
+    "longName": "Metro Watch Red",
     "projectType": "native",
     "resources": {
         "media": [
@@ -67,11 +67,11 @@
         ]
     },
     "sdkVersion": "3",
-    "shortName": "MetroWatch Color",
+    "shortName": "MetroWatch Red",
     "targetPlatforms": [
         "basalt"
     ],
-    "uuid": "22a1d101-707c-44fb-9ea1-62745b3ebe89",
+    "uuid": "11aa87d7-979f-4e2a-a732-35fd06815763",
     "versionLabel": "1.0",
     "watchapp": {
         "watchface": true
