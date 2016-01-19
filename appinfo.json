@@ -4,7 +4,7 @@
         ""
     ],
     "companyName": "mephissto",
-    "longName": "Metro Watch Color",
+    "longName": "Metro Watch Purple",
     "projectType": "native",
     "resources": {
         "media": [
@@ -67,7 +67,7 @@
         ]
     },
     "sdkVersion": "3",
-    "shortName": "MetroWatch Color",
+    "shortName": "MetroWatch Purple",
     "targetPlatforms": [
         "basalt"
     ],
