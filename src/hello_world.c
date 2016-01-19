@@ -156,7 +156,7 @@ void handle_init(void) {
 	window = window_create();
 	//Background Color
 #ifdef PBL_COLOR
-  window_set_background_color(window, GColorPictonBlue);
+  window_set_background_color(window, GColorGreen);
 #else
 	window_set_background_color(window, GColorBlack);
 #endif
