@@ -4,7 +4,7 @@
         ""
     ],
     "companyName": "mephissto",
-    "longName": "Metro Watch Color",
+    "longName": "Metro Watch Green",
     "projectType": "native",
     "resources": {
         "media": [
@@ -67,11 +67,11 @@
         ]
     },
     "sdkVersion": "3",
-    "shortName": "MetroWatch Color",
+    "shortName": "MetroWatch Green",
     "targetPlatforms": [
         "basalt"
     ],
-    "uuid": "22a1d101-707c-44fb-9ea1-62745b3ebe89",
+    "uuid": "ce4389b2-f137-4fb3-8712-189fd90da18f",
     "versionLabel": "1.0",
     "watchapp": {
         "watchface": true
