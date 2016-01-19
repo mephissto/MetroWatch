@@ -7,7 +7,7 @@ Watchface for Pebble smartwatch
 ## Screenshot
 ![](screenshots/basalt.png)
 
-For other colors :
+## For other colors
 - [Blue](https://github.com/mephissto/MetroWatch)
 - [Red](https://github.com/mephissto/MetroWatch/tree/red)
 - [Green](https://github.com/mephissto/MetroWatch/tree/green)
