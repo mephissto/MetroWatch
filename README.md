@@ -2,7 +2,13 @@
 Watchface for Pebble smartwatch
 
 ## Install
-[Pebble App Store](https://apps.getpebble.com/applications/55809a58fc670b738a000062).
+[Pebble App Store](https://apps.getpebble.com/en_US/application/569e9c94099696ec1500003f).
 
 ## Screenshot
 ![](screenshots/basalt.png)
+
+For other colors :
+- [Blue](https://github.com/mephissto/MetroWatch)
+- [Red](https://github.com/mephissto/MetroWatch/tree/red)
+- [Purple](https://github.com/mephissto/MetroWatch/tree/purple)
+- [Green](https://github.com/mephissto/MetroWatch/tree/green)
