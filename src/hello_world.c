@@ -156,7 +156,7 @@ void handle_init(void) {
 	window = window_create();
 	//Background Color
 #ifdef PBL_COLOR
-  window_set_background_color(window, GColorFolly);
+  window_set_background_color(window, GColorSunsetOrange);
 #else
 	window_set_background_color(window, GColorBlack);
 #endif
